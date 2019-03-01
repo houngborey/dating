@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;dating_adm/routes/rsvtn/rsvtn&apos; to &apos;rsvtn.js&apos;" description="Rename resource &apos;rsvtn&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="routes/rsvtn/rsvtn" name="rsvtn.js" stamp="1551409663464" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;dating_adm/views/cust&apos; to &apos;cstm&apos;" description="Rename resource &apos;cust&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="views/cust" name="cstm" stamp="1551410998818" updateReferences="true"/>
+</session>

@@ -1,0 +1,26 @@
+/**
+ * http://usejsdoc.org/
+ */
+
+var express = require('express');
+var app 	= express();
+	
+app.get('/', function(req, res, next){
+	console.log(req.route);
+	res.render('empl/list', {});
+});
+
+app.get('/add', function(req, res, next){
+	console.log(req.route);
+	res.render('empl/add', {});
+});
+
+app.get('/edit', function(req, res, next){
+	res.render('empl/edit', {});
+});
+
+app.post('/delete', function(req, res, next){
+	res.render('empl/list', {});
+});
+
+module.exports = app;

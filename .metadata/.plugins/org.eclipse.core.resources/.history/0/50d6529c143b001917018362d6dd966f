@@ -1,0 +1,12 @@
+/**
+ * http://usejsdoc.org/
+ */
+
+var config = {
+		database:{
+			host:
+		}
+		
+};
+
+

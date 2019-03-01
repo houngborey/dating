@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;dating_adm/views/html/ltr/index.html&apos; to &apos;index.ejs&apos;" description="Rename resource &apos;index.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="views/html/ltr/index.html" name="index.ejs" stamp="1551346252230" updateReferences="true"/>
+</session>
